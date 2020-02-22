@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1366.5" height="55.5" viewBox="0 0 1366.5 55.5">
+  <g id="LinesRight" transform="translate(0 1.5)">
+    <g id="Group_2" data-name="Group 2">
+      <line id="Line_1" data-name="Line 1" x1="1366" transform="translate(0 52.5)" fill="none" stroke="#0182ac" stroke-width="3"/>
+      <line id="Line_2" data-name="Line 2" x1="1228.5" transform="translate(138 35)" fill="none" stroke="#0182ac" stroke-width="3"/>
+      <line id="Line_3" data-name="Line 3" x1="1090.5" transform="translate(276 17.5)" fill="none" stroke="#0182ac" stroke-width="3"/>
+      <line id="Line_4" data-name="Line 4" x1="952.5" transform="translate(414)" fill="none" stroke="#0182ac" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

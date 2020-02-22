@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="655.867" height="342.092" viewBox="0 0 655.867 342.092">
+  <g id="DiaGroup" transform="translate(156 -4222.199)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="241.895" height="241.895" transform="translate(15.046 4222.199) rotate(45)" fill="#009bd4"/>
+    <rect id="Rectangle_3" data-name="Rectangle 3" width="52.618" height="52.618" transform="translate(342.642 4398.607) rotate(45)" fill="#0182ac"/>
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="52.618" height="52.618" transform="translate(191.009 4314.968) rotate(45)" fill="#0182ac"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" width="100.971" height="100.971" transform="translate(191.047 4398.25) rotate(45)" fill="#93ccdf"/>
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(266.594 4321.978) rotate(45)" fill="none" stroke="#0182ac" stroke-width="1">
+      <rect width="100.971" height="100.971" stroke="none"/>
+      <rect x="0.5" y="0.5" width="99.971" height="99.971" fill="none"/>
+    </g>
+    <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(418.189 4405.616) rotate(45)" fill="none" stroke="#0182ac" stroke-width="1">
+      <rect width="42.163" height="42.163" stroke="none"/>
+      <rect x="0.5" y="0.5" width="41.163" height="41.163" fill="none"/>
+    </g>
+    <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(452.167 4371.638) rotate(45)" fill="none" stroke="#009bd4" stroke-width="1">
+      <rect width="42.163" height="42.163" stroke="none"/>
+      <rect x="0.5" y="0.5" width="41.163" height="41.163" fill="none"/>
+    </g>
+    <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(484.838 4404.31) rotate(45)" fill="none" stroke="#9dddf2" stroke-width="1">
+      <rect width="21.253" height="21.253" stroke="none"/>
+      <rect x="0.5" y="0.5" width="20.253" height="20.253" fill="none"/>
+    </g>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="100.971" height="100.971" transform="translate(384.461 4288.475) rotate(45)" fill="#93ccdf"/>
+  </g>
+</svg>
