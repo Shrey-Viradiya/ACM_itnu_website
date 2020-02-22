@@ -158,9 +158,21 @@ html, body {
   }
 }
 
+@media (min-width: 576px) {
+  #ITNUtext {
+    font-size: 20px;
+  }
+}
+
 @media (min-width: 768px) {
   #ITNUtext {
     font-size: 30px;
+  }
+}
+
+@media (min-width: 992px) {
+  #ITNUtext {
+    font-size: 35px;
   }
 }
 
@@ -206,5 +218,28 @@ html {
     margin-bottom: 114px;
     height: 260px;
   }
+}
+
+.clean-block.clean-hero .text {
+  color: #fff;
+  z-index: 2;
+  padding: 40px 15px;
+  text-shadow: 1px 1px 1px rgba(0,0,0,.15);
+}
+
+.clean-block.clean-hero .text {
+  max-width: 640px;
+  color: #fff;
+  z-index: 2;
+  padding: 40px 15px;
+  text-shadow: 1px 1px 1px rgba(0,0,0,.15);
+}
+
+.clean-block.clean-hero .text {
+  max-width: 640px;
+  color: #fff;
+  z-index: 2;
+  padding: 40px 15px;
+  text-shadow: 1px 1px 1px rgba(0,0,0,.15);
 }
 
