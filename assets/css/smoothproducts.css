@@ -1,0 +1,245 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+@media (min-width: 300px) {
+  #logo {
+    height: 60px;
+  }
+}
+
+@media (min-width: 300px) {
+  .headingmain {
+    font-size: 21px;
+  }
+}
+
+.btn-outline-light:hover {
+  color: #ffffff;
+  background-color: rgba(0,117,255,0.44);
+}
+
+#WhoWeAre {
+  height: 100vh;
+}
+
+#whowearediv {
+  font-size: 15px;
+  width: 60%;
+  margin: auto;
+}
+
+@media (min-width: 768px) {
+  #whowearediv {
+    width: 60%;
+    margin-left: 220px;
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #whowearediv {
+    width: 60%;
+    margin: auto;
+    font-size: 20px;
+    margin-left: 300px;
+  }
+}
+
+@media (min-width: 1500px) {
+  #whowearediv {
+    width: 60%;
+    margin: auto;
+    margin-left: 400px;
+  }
+}
+
+@media (min-width: 300px) {
+  #linesleft {
+    background-image: url("../../assets/img/LinesLeft.svg");
+    height: 15px;
+    background-position: left;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: #f6f6f6;
+  }
+}
+
+@media (min-width: 576px) {
+  #linesleft {
+    background-image: url("../../assets/img/LinesLeft.svg");
+    height: 35px;
+    background-position: left;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: #f6f6f6;
+  }
+}
+
+#AboutACM {
+  height: 100vh;
+  background-color: #f6f6f6;
+  background-image: url("../../assets/img/diamonds_trans.svg");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: contain;
+}
+
+@media (min-width:992px) {
+  .col-lg-3 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+  }
+}
+
+@media (min-width: 300px) {
+  #linesmiddle {
+    background-color: #f6f6f6;
+    background-image: url("../../assets/img/Lines%20middle.svg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 15px;
+  }
+}
+
+@media (min-width: 768px) {
+  #linesmiddle {
+    background-color: #f6f6f6;
+    background-image: url("../../assets/img/Lines%20middle.svg");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 35px;
+  }
+}
+
+#Turing {
+  background-color: #f6f6f6;
+  height: auto;
+  padding-top: 50px;
+}
+
+@media (min-width: 300px) {
+  #linesright {
+    background-color: #f6f6f6;
+    background-image: url("../../assets/img/LinesRight.svg");
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 15px;
+    margin-bottom: 15px;
+  }
+}
+
+@media (min-width: 768px) {
+  #linesright {
+    background-color: #f6f6f6;
+    background-image: url("../../assets/img/LinesRight.svg");
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 35px;
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  #alanimg {
+    height: 200px;
+  }
+}
+
+@media (min-width: 300px) {
+  #ITNUtext {
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 576px) {
+  #ITNUtext {
+    font-size: 35px;
+  }
+}
+
+@media (min-width: 768px) {
+  #ITNUtext {
+    font-size: 40px;
+  }
+}
+
+@media (min-width: 992px) {
+  #ITNUtext {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 300px) {
+  #ACMtext {
+    font-size: 25px;
+  }
+}
+
+@media (min-width: 768px) {
+  #ACMtext {
+    font-size: 35px;
+  }
+}
+
+@media (min-width: 300px) {
+  #cptext {
+    font-size: 10px;
+  }
+}
+
+@media (min-width: 768px) {
+  #cptext {
+    font-size: 15px;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (min-width: 300px) {
+  #ProfImage {
+    transform: rotate(45deg);
+    margin-bottom: 114px;
+    height: 220px;
+  }
+}
+
+@media (min-width: 768px) {
+  #ProfImage {
+    transform: rotate(45deg);
+    margin-bottom: 114px;
+    height: 260px;
+  }
+}
+
+.clean-block.clean-hero .text {
+  color: #fff;
+  z-index: 2;
+  padding: 40px 15px;
+  text-shadow: 1px 1px 1px rgba(0,0,0,.15);
+}
+
+.clean-block.clean-hero .text {
+  max-width: 640px;
+  color: #fff;
+  z-index: 2;
+  padding: 40px 15px;
+  text-shadow: 1px 1px 1px rgba(0,0,0,.15);
+}
+
+.clean-block.clean-hero .text {
+  max-width: 640px;
+  color: #fff;
+  z-index: 2;
+  padding: 40px 15px;
+  text-shadow: 1px 1px 1px rgba(0,0,0,.15);
+}
+
